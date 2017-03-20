@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Servmill2</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">354581968235899</string>
+    <string name="fb_login_protocol_scheme">fb[354581968235899]</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_Edit">Edit</string>
+    <string name="action_Help">Help</string>
+    <string name="action_Exit">Logout</string>
+    <string name="action_About">About</string>
+    <string name="action_post">Post</string>
+    <string name="action_Details">Details</string>
+</resources>

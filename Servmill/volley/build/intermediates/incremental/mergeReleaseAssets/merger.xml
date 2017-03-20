@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/pradeep/AndroidStudioProjects/Servmill_Latest-master/Servmill/volley/src/main/assets"/><source path="/home/pradeep/AndroidStudioProjects/Servmill_Latest-master/Servmill/volley/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/home/pradeep/AndroidStudioProjects/Servmill_Latest-master/Servmill/volley/src/release/assets"/></dataSet></merger>
