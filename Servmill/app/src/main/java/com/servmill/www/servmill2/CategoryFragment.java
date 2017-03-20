@@ -22,6 +22,7 @@ public class CategoryFragment extends Fragment {
 
     public CategoryFragment() {
         // Required empty public constructor
+// changed this file
     }
 
     View view;
